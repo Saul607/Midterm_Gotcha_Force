@@ -1,0 +1,13 @@
+h1{
+  font-size:2000%
+  color:
+}
+
+
+body{
+  background-color:#D3D3D3;
+}
+
+.Pics{
+  flex.direction: column;
+}
