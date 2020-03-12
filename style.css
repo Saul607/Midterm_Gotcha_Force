@@ -1,0 +1,21 @@
+h1{
+  font-size:2000%
+  color: ;
+}
+
+
+body{
+  color: white;
+  background-color: black;
+}
+
+.Pics{
+  display: grid;
+  grid-template-rows: 50% 50%;
+  grid-template-columns: 50% 50%;
+}
+
+.bText{
+  font-size: 200000%
+  font-style: Helvetica
+}
